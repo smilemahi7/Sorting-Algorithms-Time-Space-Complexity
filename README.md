@@ -82,6 +82,7 @@
 					Example - Generating all permutations of a string.
      
 
+
 **There are many sorting algorithms in Java. Here, we are doing only commonly used "6 types of Sorting" algorithms:**
 
 		1. Bubble Sort:
